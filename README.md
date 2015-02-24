@@ -1,5 +1,5 @@
 # jmjanzenCPA
-homepage
+
 I decided to check out github's gh-pages functionality.  I thought it would be a great way to learn more about github, 
 and establish a basic website for myself.
 
