@@ -52,6 +52,10 @@ nav,
 section {
   display: block;
 }
+.footer{
+	position:absolute;
+	bottom:0px;
+}
 
 audio,
 canvas,
