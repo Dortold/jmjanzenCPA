@@ -53,8 +53,8 @@ section {
   display: block;
 }
 .footer{
-	position:absolute;
-	bottom:0px;
+	position:absolute !important;
+	bottom:0px !important;
 }
 
 audio,
